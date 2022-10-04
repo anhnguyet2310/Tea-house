@@ -1,0 +1,21 @@
+
+:root{
+    --primary-color: #4d8a54;
+    --header-height: 5rem;
+    font-size: 10px;
+    
+}
+
+.white-color{
+    color: #fff !important;
+}
+
+html{
+    font-family: 'Quicksand', sans-serif;
+}
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
